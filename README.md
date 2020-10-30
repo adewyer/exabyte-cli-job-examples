@@ -1,6 +1,6 @@
 # CLI job examples
 
-This repository contains example data for command-line batch jobs with commonly used packages on Exabyte.io [1,2](#links)..
+This repository contains example data for command-line batch jobs with commonly used packages on Exabyte.io [1,2](#links).
 
 ## Installation
 
