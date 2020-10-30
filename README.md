@@ -6,15 +6,15 @@ This repository contains example data for command-line batch jobs with commonly 
 
 Sources are batch job scripts and can be cloned as below:
 
-    ```bash
-    git clone git@github.com:Exabyte-io/exabyte-cli-job-examples.git
-    ```
+```bash
+git clone git@github.com:Exabyte-io/exabyte-cli-job-examples.git
+```
 
 OR
 
-    ```bash
-    git clone https://github.com/Exabyte-io/exabyte-cli-job-examples.git
-    ```
+```bash
+git clone https://github.com/Exabyte-io/exabyte-cli-job-examples.git
+```
 
 
 ## Contribution
