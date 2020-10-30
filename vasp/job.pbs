@@ -26,10 +26,15 @@
 #PBS -q D
 #PBS -m abe
 #PBS -M info@exabyte.io
-## Uncomment the line below and put a desired project name.
+#
+## Uncomment the line below and put a desired project name, e.g.:
+##      "seminar-default", or "john-projectname".
+## NOTE: this is required when using organizational accounts.
+## more at https://docs.exabyte.io/jobs-cli/batch-scripts/directives/.
 ## The job will be charged to the corresponding project.
 ## When commented out, the default project for user is assumed.
 ##PBS -A <PROJECT_NAME_IN_ACCOUNTING_SYSTEM>
+
 
 # load module
 module add vasp/535-i-174-impi-044
