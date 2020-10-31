@@ -19,7 +19,7 @@ git clone https://github.com/Exabyte-io/exabyte-cli-job-examples.git
 
 ## Contribution
 
-This repository is an [open-source](LICENSE.md) work-in-progress and we welcome contributions. We suggest forking this repository and introducing the adjustments there, the changes in the fork can further be considered for merging into this repository as it is commonly done on Github [#links](2).
+This repository is an [open-source](LICENSE.md) work-in-progress and we welcome contributions. We suggest forking this repository and introducing the adjustments there, the changes in the fork can further be considered for merging into this repository as it is commonly done on Github [3](#links).
 
 
 ## Links
@@ -27,4 +27,6 @@ This repository is an [open-source](LICENSE.md) work-in-progress and we welcome 
 1: [Exabyte.io Documentation](https://docs.exabyte.io)
 
 2: [Command-line Jobs in the Exabyte.io](https://docs.exabyte.io/jobs-cli/overview/)
+
+3: [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 
