@@ -1,6 +1,6 @@
 # CLI job examples
 
-This repository contains example data for command-line batch jobs with commonly used packages on Exabyte.io [1,2](#links).
+This repository contains example data for command-line batch jobs with commonly used packages on Exabyte.io [[1,2](#links)].
 
 ## Installation
 
@@ -19,7 +19,7 @@ git clone https://github.com/Exabyte-io/exabyte-cli-job-examples.git
 
 ## Contribution
 
-This repository is an [open-source](LICENSE.md) work-in-progress and we welcome contributions. We suggest forking this repository and introducing the adjustments there, the changes in the fork can further be considered for merging into this repository as it is commonly done on Github [3](#links).
+This repository is an [open-source](LICENSE.md) work-in-progress and we welcome contributions. We suggest forking this repository and introducing the adjustments there, the changes in the fork can further be considered for merging into this repository as it is commonly done on Github [[3](#links)].
 
 
 ## Links
